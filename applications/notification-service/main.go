@@ -1,5 +1,0 @@
-package notificationService
-
-func main() {
-
-}

@@ -1,5 +1,0 @@
-package paymentService
-
-func main() {
-
-}

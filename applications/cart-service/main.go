@@ -1,5 +1,0 @@
-package cartService
-
-func main() {
-
-}
